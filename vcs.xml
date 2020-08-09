@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="debasmitapal263" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/vandy-aad-2/aad-2-assg-1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\ABHISHEK\Downloads\Android App Development Specialization\Course_2_Android App Components - Intents, Activities, and Broadcast Receivers" />
   </component>
 </application>
